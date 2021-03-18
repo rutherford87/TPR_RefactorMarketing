@@ -15,5 +15,5 @@ The repo can be found here:
 
 The website can be viewed here: [Horiseo Main Page](https://rutherford87.github.io/TPR_RefactorMarketing/)
 
-Example of the final repo: ![Example 1](/assets/images/Markdown.png)
+Example of the final repo: ![Example 1](./assets/images/Markdown.PNG)
 
